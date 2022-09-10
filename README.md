@@ -1,8 +1,9 @@
 # CodePath-Prework
 Prework for codepath
-# Pre-work - *Name of App Here*
 
-**TipsCalculator** is a tip calculator application for iOS.
+# Pre-work - *Tips Calculator*
+
+**Tips Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Divyansh Singh**
 
@@ -30,13 +31,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/9PkXaKy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Repairing the outlets was one of the tasks that I faced during the process. segmented control seemed very fascinating to me.I couldn't download the gif because the website wouldnt allow it to be saved on my computer at first
+Repairing the outlets was one of the tasks that I faced during the process. segmented control seemed very fascinating to me.
 
 ## License
 
